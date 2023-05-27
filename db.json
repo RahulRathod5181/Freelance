@@ -10,7 +10,7 @@
       "skills": ["HTML", "CSS", "JavaScript"],
       "hourly_rate": 25,
       "profile_picture": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cHJvZmVzc2lvbmFsfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60",
-			"isBooked" : false
+			"isBooked" : true
     },
     {
       "id": 2,
@@ -32,7 +32,7 @@
       "skills": ["React", "Node.js"],
       "hourly_rate": 35,
       "profile_picture": "https://images.unsplash.com/photo-1537511446984-935f663eb1f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fHByb2Zlc3Npb25hbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
-			"isBooked" : false
+			"isBooked" : true
     },
     {
       "id": 4,
@@ -43,7 +43,7 @@
       "skills": ["React", "Node.js"],
       "hourly_rate": 56,
       "profile_picture": "https://images.unsplash.com/photo-1495603889488-42d1d66e5523?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDZ8fHByb2Zlc3Npb25hbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
-			"isBooked" : false
+			"isBooked" : true
     },
     {
       "id": 5,
@@ -54,7 +54,7 @@
       "skills": ["React", "Node.js"],
       "hourly_rate": 28,
       "profile_picture": "https://images.unsplash.com/photo-1598257006458-087169a1f08d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDh8fHByb2Zlc3Npb25hbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
-			"isBooked" : false
+			"isBooked" : true
     }
   ]
 }
