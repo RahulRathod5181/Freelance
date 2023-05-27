@@ -54,6 +54,7 @@
       "skills": ["React", "Node.js"],
       "hourly_rate": 28,
       "profile_picture": "https://images.unsplash.com/photo-1598257006458-087169a1f08d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDh8fHByb2Zlc3Npb25hbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      
 			"isBooked" : true
     }
   ]
